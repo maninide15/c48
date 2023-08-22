@@ -3,7 +3,7 @@ var player, shooterImg, shooter_shooting;
 var zombie, zombieGroup, zombieImg
 var bullet, bulletImg, bulletGroup
 
-var bullets = 10
+var bullets = 50
 var score = 0
 var lives = 3
 
