@@ -140,7 +140,7 @@ if(lives === 0 ){
   
 }
 
-if(score === 10){
+if(score === 100){
   gameState = "won"
   winSound.play()
   
